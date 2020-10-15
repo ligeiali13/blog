@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2020 司马写意
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus: 
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: d3144ed17d7c36d82f91
+  clientSecret: 0e30cd49ef5d299d7f2a89cc65bd7cc49b5eea5b
+  repo: blog
+  owner: ligeiali13
 
 # 输入Google Analytics web tracking code
 google_analytics:
