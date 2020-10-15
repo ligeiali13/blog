@@ -4,4 +4,4 @@ title: 关于
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+微博@司马写意 欢迎勾搭！
