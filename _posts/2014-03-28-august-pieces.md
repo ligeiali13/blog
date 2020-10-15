@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 奥古斯特中心小段子合集
+title: 神父中心小段子合集
 date: 2014-03-28
 Author: 司马写意
 categories: 同人
