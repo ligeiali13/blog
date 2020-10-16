@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 梦魇
-date: 2016-02-01
+date: 2014-09-01
 Author: 司马写意
 categories: 同人
 tags: [神学校, 神父组]
