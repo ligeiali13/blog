@@ -4,7 +4,7 @@ title: 神父中心小段子合集
 date: 2014-03-28
 Author: 司马写意
 categories: 同人
-tags: [神学校]
+tags: [神学校][奥麦][神父组][亲世代]
 comments: true
 ---
 
