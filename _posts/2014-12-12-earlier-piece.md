@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【羽古】Earlier Piece
-date: 2014-12-12
+date: 2020-12-12
 Author: 司马写意
 categories: 同人
 tags: [Legal High]
