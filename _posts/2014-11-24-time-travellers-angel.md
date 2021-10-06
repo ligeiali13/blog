@@ -7,7 +7,7 @@ categories: 同人
 tags: [神学校]
 comments: true
 ---
->续奥古斯特线《送葬》结局，神父没死的AU
+>选择“挥起剑”后奥古斯特没死的AU
 
 <br />
 
