@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 梦魇
+title: 【神父组】梦魇
 date: 2014-05-01
 Author: 司马写意
 categories: 同人
-tags: [神学校, 神父组]
+tags: [神学校]
 comments: true
 ---
 
@@ -39,6 +39,8 @@ comments: true
 奥古斯特什么都不知道。
 
 当然，有些事，他也不打算让挚友知晓。
+
+<br />
 
 他站在龟裂的大地中央。
 
