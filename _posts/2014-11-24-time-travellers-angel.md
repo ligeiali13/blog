@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【奥麦】时间旅行者的天使
-date: 2021-06-06
+date: 2014-11-24
 Author: 司马写意
 categories: 同人
 tags: [神学校]
