@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【奥麦】献给落日的哀歌
-date: 2021-03-27
+date: 2014-03-27
 Author: 司马写意
 categories: 同人
 tags: [神学校]
