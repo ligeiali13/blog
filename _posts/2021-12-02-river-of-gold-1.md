@@ -3,7 +3,7 @@ layout: post
 title: 【凛冴】cry me a river of gold (1)
 date: 2021-12-02
 Author: 司马写意
-categories: 
+categories: 同人
 tags: [Blue Lock]
 comments: true
 ---
