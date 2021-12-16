@@ -6,6 +6,8 @@ permalink: /about/
 
 司马写意/Ligeia
 
-常用的平台：微博@船舶小屋见，Twitter@ligeia_li，AO3@Ligeia13，B站@司马写意_
+阴间封建同人女，喜欢不平等关系和执念系角色
 
-欢迎来找我玩！
+常用平台：微博@船舶小屋见，Twitter@ligeia_li，Lofter@司马写意，AO3@Ligeia13，B站@司马写意_
+
+欢迎来找我玩！我很好勾搭的！
