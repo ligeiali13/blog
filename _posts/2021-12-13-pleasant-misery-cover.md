@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 给甜蜜的房间做了个封面
+title: 《甜蜜的房间》封面
 date: 2021-12-13
 Author: 司马写意
 categories: 同人
@@ -10,8 +10,4 @@ comments: true
 
 ![封面](https://s4.ax1x.com/2021/12/14/ojmWC9.jpg)
 
-<br />
-
-ps技术差，反正就是这么个意思（抹汗
-
-今年写的最满意的一篇文！
+纪念一下今年写的最满意的一篇文
