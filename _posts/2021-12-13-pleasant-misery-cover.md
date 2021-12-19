@@ -8,6 +8,6 @@ tags: [Blue Lock]
 comments: true
 ---
 
-![封面](https://s4.ax1x.com/2021/12/19/Te039J.jpg)
+![封面](https://s4.ax1x.com/2021/12/19/Te0r3d.jpg)
 
 纪念一下今年写的最满意的一篇文
