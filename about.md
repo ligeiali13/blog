@@ -10,4 +10,4 @@ permalink: /about/
 
 常用平台：微博@船舶小屋见，Twitter@ligeia_li，AO3@Ligeia13，Lofter@司马写意，B站@司马写意_
 
-欢迎来找我一起玩！
+欢迎一起玩！我特别好勾搭23333
