@@ -9,5 +9,3 @@ comments: true
 ---
 
 ![封面](https://s4.ax1x.com/2021/12/19/Te05CQ.jpg)
-
-自制，纪念一下今年写的最满意的一篇文
