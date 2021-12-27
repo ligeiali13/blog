@@ -2,7 +2,7 @@
 layout: post
 title: 【冴凛】甜蜜的房间
 date: 2021-09-19
-Author: 司马写意
+Author: Ligeia
 categories: 同人
 tags: [Blue Lock]
 comments: true
