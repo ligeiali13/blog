@@ -2,7 +2,7 @@
 layout: post
 title: 【神父组】梦魇
 date: 2016-05-01
-Author: 司马写意
+Author: Ligeia
 categories: 同人
 tags: [神学校]
 comments: true
