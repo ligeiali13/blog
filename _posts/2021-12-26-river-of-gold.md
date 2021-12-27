@@ -2,7 +2,7 @@
 layout: post
 title: 【凛冴】cry me a river of gold
 date: 2021-12-26
-Author: 司马写意
+Author: Ligeia
 categories: 同人
 tags: [Blue Lock]
 comments: true
