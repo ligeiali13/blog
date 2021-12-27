@@ -4,10 +4,10 @@ title: 关于
 permalink: /about/
 ---
 
-司马写意/Ligeia
+Ligeia
 
 口味偏阴间的同人女，喜欢单箭头和不平等关系，偶尔也会嗑一口真爱
 
-常用平台：微博@船舶小屋见，Twitter@ligeia_li，AO3@Ligeia13，Lofter@司马写意，B站@司马写意_
+常用平台：微博@船舶小屋见，Twitter@ligeia_li，AO3@Ligeia13
 
-欢迎一起玩！我特别好勾搭23333
+欢迎扩列！我毛很软随便摸23333
