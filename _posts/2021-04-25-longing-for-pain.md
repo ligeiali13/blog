@@ -2,7 +2,7 @@
 layout: post
 title: 【Haru/Maki】渴痛
 date: 2021-04-25
-Author: 司马写意
+Author: Ligeia
 categories: 同人
 tags: [NO THANK YOU!!!]
 comments: true
