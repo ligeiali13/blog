@@ -2,7 +2,7 @@
 layout: post
 title: 《甜蜜的房间》封面
 date: 2021-12-13
-Author: 司马写意
+Author: Ligeia
 categories: 同人
 tags: [Blue Lock]
 comments: true
