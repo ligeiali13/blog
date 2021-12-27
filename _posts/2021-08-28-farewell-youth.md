@@ -2,7 +2,7 @@
 layout: post
 title: 【玲凪】作别少年时代
 date: 2021-08-28
-Author: 司马写意
+Author: Ligeia
 categories: 同人
 tags: [Blue Lock]
 comments: true
