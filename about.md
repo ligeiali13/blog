@@ -6,8 +6,8 @@ permalink: /about/
 
 Ligeia
 
-口味偏阴间的同人女，喜欢单箭头和不平等关系，偶尔也会嗑一口真爱
+中年社畜，人艰不拆，码两个字证明我还活着
 
-常用平台：微博@船舶小屋见，Twitter@ligeia_li，AO3@Ligeia13
+企鹅：576820290，微博@船舶小屋见，提问箱：https://www.tapechat.net/uu/Q22QH6/2ZMFK9QF
 
-欢迎扩列！我毛很软随便摸～
+欢迎扩列！
