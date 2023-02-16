@@ -52,7 +52,7 @@ footer-links:
   weibo: 6061302168
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: #youremailaddress@mail.com
+  email: # youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: 
@@ -62,7 +62,7 @@ footer-links:
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: ligeia_li 
+  twitter: # ligeia_li 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
