@@ -7,3 +7,5 @@ permalink: /about/
 企鹅：576820290
 
 微博@船舶小屋见
+
+[亲友阿浮太太的个站](https://coococola.home.blog/)
